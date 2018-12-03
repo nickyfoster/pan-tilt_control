@@ -1,0 +1,19 @@
+body{
+	background-image: url(https://raw.githubusercontent.com/nickyfoster/bin/master/IMG_4679.jpg);
+	background-position: center center;
+	color: yellow;
+	padding:5%;
+	text-align: center;
+}
+
+.button {
+	font: bold 12px Comic Sans;
+	text-decoration: none;
+	background-color: #EEEEEE;
+	color: #333333;
+	padding: 2px 6px 6px 6px;
+	border-top: 1px solid #CCCCCC;
+	border-right: 1px solid #333333;
+	border-bottom: 1px solid #333333;
+	border-left: 1px solid #CCCCCC;
+}
